@@ -1,6 +1,6 @@
 
 import './App.css';
-import Lemmikraamat from './kodutqq'; 
+import Lemmikraamat from './Lemmikraamat'; 
 
 function App() {
   return (
